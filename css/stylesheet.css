@@ -34,7 +34,7 @@ h1 {
 
 .right {
     width: 500px;
-    display: flow-root;
+    display: flow;
     overflow: auto;
 }
 
